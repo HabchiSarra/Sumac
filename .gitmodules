@@ -1,0 +1,6 @@
+[submodule "SwiftAnalyzer"]
+	path = SwiftAnalyzer
+	url = git@github.com:HabchiSarra/SwiftAnalyzer.git
+[submodule "ObjCParser"]
+	path = ObjCParser
+	url = git@github.com:SOMCA/ObjCParser.git
